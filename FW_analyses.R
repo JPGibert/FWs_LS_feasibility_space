@@ -1,4 +1,4 @@
-setwd("~/Desktop/JP/Papers_in_progress/JP_FW_constrained_space/Analyses")
+setwd("PASTE YOUR WORKING DIRECTORY HERE")
 
 library('RColorBrewer')
 library("quantreg")
@@ -46,7 +46,7 @@ mean(web$Basal, na.rm=TRUE)
 max(web$Basal, na.rm=TRUE)
 min(web$Basal, na.rm=TRUE)
 
-pdf('~/Desktop/JP/Papers_in_progress/JP_FW_constrained_space/Figures/Figure_1/Fig_1.pdf', useDingbat=FALSE, width=10, height=5)
+pdf('PASTE YOUR WORKING DIRECTORY HERE/Fig_1.pdf', useDingbat=FALSE, width=10, height=5)
 par(mfrow=c(1,2), mar=c(0.5,1,2,2), oma=c(3,3,2,3))
 
 # FIGURE 1b
@@ -86,7 +86,7 @@ mod <- lm(logL~logS+absLat+logOmnv+Type2*Top,data=web) # Subdividing Terrestrial
 #mod <- lm(logL~logS,data=web)
 summary(mod) ## Very significant Top*Type interaction
 
-pdf('~/Desktop/JP/Papers_in_progress/JP_FW_constrained_space/Figures/Figure_2/Fig_2.pdf', useDingbat=FALSE, width=7, height=6)
+pdf('PASTE YOUR WORKING DIRECTORY HERE/Fig_2.pdf', useDingbat=FALSE, width=7, height=6)
 
 par(mfrow=c(2,2), mar=c(0.5,1,2,2), oma=c(3,3,2,3))
 ## Omnivory
