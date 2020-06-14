@@ -1,4 +1,4 @@
-# Repository for Gibert & Wieczinsky "Constrains on food web structure revisited"
+# Repository for Gibert & Wieczinsky "Constraints on food web structure revisited"
 
 The data used in this project can be found in: https://github.com/JPGibert/Temp_food_webs
 
