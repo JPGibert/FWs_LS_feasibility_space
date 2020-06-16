@@ -38,7 +38,7 @@ head(web)
 
 #Replacing normal Latitude by rescaled latitude
 web$absLat <- (mean(web$absLat)-web$absLat)/sd(web$absLat)
-web <- web[-18,]
+web2 <- web[-18,]
 web$no_Basal <- 1-web$Basal
 
 ## Beta estimation
