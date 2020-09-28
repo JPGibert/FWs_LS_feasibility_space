@@ -1,0 +1,66 @@
+FW name,Country,Country2,Continent,Location,Ecosystem,Type ,Type2,S,L,C,Lat,Long,Year of Pub,Ref,Commments
+Afon Hafren,Wales/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,25,135,0.216,52.47,-3.7,2010,Layer et al 2010,From Cheddar package in R
+Aire,UK,UK,Europe,"Rivers Aire, Nidd and Wharfe, near Leeds, Yorkshire",Stream,Freshwater,Aquatic,60,185,0.051388889,53.866888,-1.530785,1929,Percival & Witehead 1929,
+Allt a'Mharcaidh,Scotland/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,40,334,0.20875,57.12,-3.85,2010,Layer et al 2010,From Cheddar package in R
+Alvarado,Mexico,Mexico,North America,"Laguna Alvarado, Veracruz","Lagoon, Estuarine",Fresh/Marine,Aquatic,30,229,0.254444444,18.78108,-95.8234,2007,Cruz-Escalona et al 2007,
+Angola,Angola,Angola,Africa,"Fishery landings, Angola's coast",Marine,Marine,Aquatic,28,127,0.161989796,-11.25,11,2011,Angelini & Vaz-Velho 2011,"Approx, mid point from reported range"
+Antarctica,Chile/Argentina/UK claimed region,Chile/Argentina/UK claimed region,Antarctica,"Northern tip, Antarctic Peninsula",Marine,Marine,Aquatic,28,218,0.278061224,-63.045733,-59.70119,2008,Cornejo-Donoso & Antezana 2008,"Approx, middle of the CCAMLR 48.1 region"
+Bear,Norway,Norway,Europe/Arctic,Barents Sea bear island in the arctic,Island,Terrestrial,Terrestrial,31,43,0.044745057,74.451695,19.025885,2004,Hodkinson & Coulson 2004,"Approx, based on description in paper"
+Benguela,South Africa,South Africa,Africa,offshore Cape Town,Marine,Marine,Aquatic,29,203,0.24137931,-33.92584,18.42322,1998,Yodzis (1998),
+Bere Stream,England/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,66,943,0.216483012,50.73,-2.21,2010,Layer et al 2010,From Cheddar package in R
+Berwick,New Zealand,New Zealand,Oceania,unnamed tributary of Meggat Burn,Stream,Freshwater,Aquatic,77,240,0.040479002,-45.93,170.01,2003,Thompson & Townsend 2003,
+Black Rock Stream,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,85,373,0.051626298,-45.760462,170.006203,1998,Townsend et al 1998,Approx based on map (Townsend et al 1998)
+Braco Morto,Brazil,Brazil,South America,"Oxbow lakes on the Rio Aquidauana, Pantanal, Mato Grosso do Sul",River,Freshwater,Aquatic,39,248,0.163050625,-19.51,-57.27,2013,Angelini et al 2013,"Approx, based on map in paper"
+Bridge Brook,US,US,North America,Upper State New York,Lake,Freshwater,Aquatic,75,553,0.098311111,44.161875,-74.583689,1992,Havens 1992,
+Broad Stream,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,94,565,0.063942961,-45.760462,170.006203,1998,Townsend et al 1998,Approx based on map (Townsend et al 1998)
+Broadtsone,England/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,25,178,0.2848,51.08,0.053,2010,Layer et al 2010,From Cheddar package in R
+Cadiz,Spain,Spain,Europe,"Gulf of Cadiz, Southwestern Spain",Marine,Marine,Aquatic,44,413,0.213326446,36.518211,-6.3405,2013,Torres et al 2013,"Approx, based on description in paper"
+Canton Creek,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,108,708,0.060699588,-45.760462,170.006203,1998,Townsend et al 1998,Approx based on map (Townsend et al 1998)
+Carpinter’a ,US,US,North America,"near Santa Barbara, CA",Marsh,Freshwater,Aquatic,128,2290,0.139770508,34.4,119.31,2006,Lafferty et al 2006,
+Chesapeake,US,US,North America,"Maryland, Virginia",Estuary,Fresh/Marine,Aquatic,33,72,0.066115702,38.619449,-76.415107,1989,Baird & Ulanowicz 1989,
+Coachella Valley,US,US,North America,"Riverside county, CA",Desert,Terrestrial,Terrestrial,30,290,0.322222222,33.54,-116.275184,1991,Polis 1991,
+Coral Reef,US/UK ,UK,Caribean/Antilles,Virgin Islands ,Marine,Marine,Aquatic,50,556,0.2224,18.333333,-64.916667,1996,Opitz 1996,Coordinates are for the island of St. Thomas
+Corrente,Brazil,Brazil,South America,"Corrente river, Goias",River,Freshwater,Aquatic,13,34,0.201183432,-18.4,-52,2010,Angelini et al 2010,
+Coweeta 1 (Cooper),US,US,North America,North Carolina,Stream,Freshwater,Aquatic,58,126,0.03745541,35.05,-83.45,2003,Thompson & Townsend 2003,
+Coweeta 17 (Herlzler),US,US,North America,North Carolina,Stream,Freshwater,Aquatic,71,148,0.029359254,35.03,-83.43,2003,Thompson & Townsend 2003,
+Deep Creek,US,US,North America,"Deep Creek, Curlew Valley, Idaho-Utah",Cool desert stream ,Freshwater,Aquatic,32,140,0.13671875,41.95,-112.233333,1973,Koslucher & Minshall 1973,
+Dempsters Autumn,New Zealand,New Zealand,Oceania,unnamed tributary of Three O'ClockStream,Stream,Freshwater,Aquatic,83,415,0.060240964,-45.53,170.45,2003,Thompson & Townsend 2000,Approx from NZMS 260 (National Topographic Office)
+Dempsters Spring,New Zealand,New Zealand,Oceania,unnamed tributary of Three O'ClockStream,Stream,Freshwater,Aquatic,93,538,0.062203723,-45.53,170.45,2003,Thompson & Townsend 2000,Approx from NZMS 260 (National Topographic Office)
+Dempsters Summer,New Zealand,New Zealand,Oceania,unnamed tributary of Three O'ClockStream,Stream,Freshwater,Aquatic,107,966,0.084374181,-45.53,170.45,2000,Thompson & Townsend 2000,Approx from NZMS 260 (National Topographic Office)
+Duddon Pike Beck,England/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,35,286,0.233469388,54.41,-3.17,2010,Layer et al 2010,From Cheddar package in R
+Hardknott Gill,England/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,44,386,0.199380165,54.4,-3.17,2010,Layer et al 2010,From Cheddar package in R
+Healy Creek,New Zealand,New Zealand,Oceania,"Healy Creek, Otago",Stream,Freshwater,Aquatic,96,634,0.068793403,-44.97,170.32,2003,Thompson & Townsend 2000,Approx from NZMS 260 (National Topographic Office)
+Huizache,Mexico,Mexico,North America,Huizache-Caimanero Lagoon,"Lagoon, Estuarine",Fresh/Marine,Aquatic,26,189,0.279585799,23.02,-106.42,2003,Zetina-Rejon et al 2003,
+Itaipu (83-87),Brazil,Brazil,South America,Itaipu dam reservoir,Freshwater reservoir,Freshwater,Aquatic,32,139,0.135742188,-24.755589,-54.379233,2006,Angelini et al 2006,"Approx, middle of the reservoir"
+Itaipu (88-92),Brazil,Brazil,South America,Itaipu dam reservoir,Freshwater reservoir,Freshwater,Aquatic,33,141,0.129476584,-24.755589,-54.379233,2006,Angelini et al 2006,"Approx, middle of the reservoir"
+Kye Burn,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,98,629,0.065493544,-44.95,170.35,2003,Thompson & Townsend 2003,
+Las Cuevas,Belize,Belize,Central America,"Near Las Cuevas research station,Chiquibul Forest reserve, Cayo District",Deciduous Seasonal Forest,Terrestrial,Terrestrial,165,114,0.004187328,16.733503,-88.986329,2002,Lewis et al 2002,"Approx, based on description in paper"
+Martins,US,US,North America,Maine,Stream,Freshwater,Aquatic,104,342,0.031619822,44.666667,-69.116667,2003,Thompson & Townsend 2003,Townsend et al 1998 for a map of all sampled sites and streams from NZ
+Mill Stream,England/UK,UK,Europe,Namesake stream,Stream,Freshwater,Aquatic,87,1654,0.218522922,50.68,-2.18,2010,Layer et al 2010,From Cheddar package in R
+Mojave parasitoids,US,US,North America,"Western Mojave, Coachella Valley and San Jacinto Mountains","Desert, Chaparral",Terrestrial,Terrestrial,37,74,0.054054054,35.008333,-115.475,1984,Hawkins & Goeden 1984,"Approx, middle of Mojave Desert"
+Mondego,Portugal,Portugal,Europe,"South arm Mondego River, Coimbra Disitrict","River Lagoon, Estuarine",Fresh/Marine,Aquatic,26,103,0.152366864,40.129959,-8.847787,2011,Baeta et al 2011,
+Monterey Bay,US,US,North America,Western California,Marine Intertidal,Marine,Aquatic,37,79,0.057706355,36.8,-121.9,1965,Glynn 1965,"Approx, middle of the bay"
+NorthCalifornia,US,US,North America,Northern California continental shelf,Marine,Marine,Aquatic,80,1446,0.2259375,45,-125,2012,Ruzicka 2012,"Approx, based on map in paper"
+NorthCol,New Zealand,New Zealand,Oceania,"catchment of Silver stream, southern NZ island",Stream,Freshwater,Aquatic,78,241,0.039612097,-45.77,170.45,2003,Thompson & Townsend 2003,
+Onca,Brazil,Brazil,South America,"Oxbow lakes on the Rio Aquidauana, Pantanal, Mato Grosso do Sul",River,Freshwater,Aquatic,40,241,0.150625,-19.7,-56.34,2013,Angelini et al 2013,"Approx, based on map in paper"
+Osa scavengers,Costa Rica,Costa Rica,Central America,"Osa, Costa Rica",Scavenger food web on toad carrion in tropical wet lowland,Terrestrial,Terrestrial,50,131,0.0524,8.570659,-83.489143,1974,Cornaby 1974,"Approx, middle of the Osa Peninsula"
+Parana,Brazil,Brazil,South America,"Upper Paran‡, between Porto Rico City and Gua’ra",River,Freshwater,Aquatic,40,185,0.115625,-23.398523,-53.852905,2005,Angelini & Agostinho 2005,"Approx, mid point between Porto Rico city and Gua’ra, as described in the study"
+Pawnee,US,US,North America,"Pawnee National Grassland/Pawnee site, Colorado",Prairie,Terrestrial,Terrestrial,133,416,0.02351744,40.819,-103.854,1972,Harris & Paur 1972,"Approx, Pawnee Naitonal Grassland"
+Porteirinho,Brazil,Brazil,South America,"Porteirinho Creek, Itatinga, south east Brazil",Stream,Freshwater,Aquatic,119,310,0.021891109,-23.05,-48.633333,2005,Motta & Uieda 2005,
+Powder,New Zealand,New Zealand,Oceania,"catchment of Silver stream, southern NZ island",Stream,Freshwater,Aquatic,78,268,0.044049967,-45.78,170.42,2003,Thompson & Townsend 2003,
+Quick Pond,US,US,North America,"Quick Pond, Northern California",Pond,Freshwater,Aquatic,113,1902,0.148954499,40.793587,-122.082832,2012,Preston et al 2012,Has parasites/infectious agents/ontogenetic stages; Approx coord.
+Saguaro,US,US,North America,"Near Tucson, Arizona",Desert Giant Cactus Forest,Terrestrial,Terrestrial,48,138,0.059895833,32.25,-110.5,1954,Howes 1954,"Approx, coordinates for Saguaro Naitonal Park"
+Sarracenia,US/Canada,US/Canada,North America,"Along the east coast, north and central Canada",Pitcher Plant ,Freshwater,Aquatic,91,1834,0.221470837,45.22315,-84.434551,2012,Baiser et al 2012,"Approx, compiled food web across sites so I used a middle point near the great lakes"
+Scotia Sea,Chile/Argentina/UK claimed region,Chile/Argentina/UK claimed region,Antarctica,Scotia-Weddell confluence region,Marine,Marine,Aquatic,56,178,0.056760204,-59,-39,1993,Hopkins et al 1993,"Approx, based on map in paper"
+Skipwidth,UK,UK,Europe,"Skipwidth Common National Nature Reserve, Yorkshire",Pond,Freshwater,Aquatic,37,380,0.277574872,53.666667,-0.983333,1989,Warren (1989),
+St Marks,US,US,North America,"St. Marks National Wildlife Refuge, Florida",Estuary,Fresh/Marine,Aquatic,48,221,0.095920139,30.116667,-84.25,1999,Christian & Luczkovich (1999),
+St Martin,France/St. Maarten,France/St. Maarten,Caribean/Antilles,St Martin Island,Island,Terrestrial,Terrestrial,44,218,0.112603306,18.066667,-63.05,1993,Goldwasser & Roughgarden (1993),
+Stony Stream,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,112,832,0.066326531,-46.6,169.92,1998,Townsend et al 1998,Approx based on proximity from Sutton (Townsend et al 1998)
+Sutton Autumn,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,80,335,0.05234375,-46.6,169.92,2003,Thompson & Townsend 2003,
+Sutton Spring,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,74,391,0.071402484,-46.6,169.92,2003,Thompson & Townsend 2003,
+Sutton Summer,New Zealand,New Zealand,Oceania,"tributaries of Taieri River, south NZ island",Stream,Freshwater,Aquatic,86,423,0.057193077,-46.6,169.92,2003,Thompson & Townsend 2003,
+Troy,US,US,North America,Maine,Stream,Freshwater,Aquatic,76,177,0.030644044,44.666667,-69.116667,1998,Jarsma et a 1998,
+UK Grassland,UK,UK,Europe,"Silwood Park, Berkshire",Grassland,Terrestrial,Terrestrial,87,126,0.016646849,51.4,-0.57,2000,Memmott et al 2000,Coordinates for middle of estuary
+Venlaw,New Zealand,New Zealand,Oceania,"unnamed tributary of Mimihau stream, Southland, Southern NZ island",Stream,Freshwater,Aquatic,65,185,0.043786982,-46.35,169.08,2003,Thompson & Townsend 2003,
+Vilas,US,US,North America,"Villas County, Northern Wisconsin",Pond,Freshwater,Aquatic,77,958,0.161578681,46.057226,-89.518686,1997,Schneider 1997,"Approx, middle of the county"
+Wet tropics,Australia,Australia,Oceania,"Wet tropics rivers, Queensland",River,Freshwater,Aquatic,62,211,0.054890739,-15.225584,144.388981,2010,Rayner et al 2010,"Approx, dased on description"
