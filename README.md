@@ -1,5 +1,9 @@
-# Repository for Gibert & Wieczinsky "Constraints on food web structure revisited"
+# Repository for Gibert & Wieczinsky "Biotic and Abiotic constraints on food web structure revisited"
 
 The data used in this project can be found at: https://github.com/JPGibert/Temp_food_webs
 
-All code used is available in this repo under the name: FW_analyses.R
+Code used for analyses can be found in this repo under the name: FW_analyses.R
+Code used for modularity analyses can be found under: Modularity_analyese.R
+
+Raw data can be found in folder: FW_raw
+Other data and metadata: struct_data.csv; Food_web_metadata.csv
