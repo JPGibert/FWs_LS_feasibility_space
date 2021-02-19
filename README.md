@@ -1,4 +1,4 @@
-# Repository for Gibert & Wieczynski "Biotic and Abiotic constraints on food web structure revisited"
+# Repository for Gibert & Wieczynski "Constraints and variation on the link-species relationship revisited"
 
 The data used in this project can be found at: https://github.com/JPGibert/Temp_food_webs
 
