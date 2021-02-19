@@ -2,8 +2,7 @@
 
 The data used in this project can be found at: https://github.com/JPGibert/Temp_food_webs
 
-Code used for analyses can be found in this repo under the name: **FW_analyses.R**<br/>
-Code used for modularity analyses can be found under: **Modularity_analyses.R**
+Code used for all analyses and figures can be found in this repo under the name: **FW_analyses.R**<br/>
 
 Raw data can be found in folder: **FW_raw**<br/>
-Other data and metadata: **struct_data.csv; Food_web_metadata.csv**
+Other data and metadata needed (also in this repo): **struct_data_NEW.csv; Food_web_metadata.csv**
